@@ -1,3 +1,4 @@
+//create a linked list and store some data in it
 #include <stdio.h>
 #include <stdlib.h>
 struct Node
